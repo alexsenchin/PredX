@@ -1,7 +1,10 @@
 numpy
 pandas
 scikit-learn
+lightgbm
 ta
 python-telegram-bot
+httpx
+python-dotenv
 matplotlib
-
+loguru
